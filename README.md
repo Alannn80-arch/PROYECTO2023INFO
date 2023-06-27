@@ -1,5 +1,5 @@
 # PROYECTO2023INFO
 participantes :
-Quenardelle Alan
-Carlos Gomez 
-Juan Cast 
+Quenardelle Alan,
+Carlos Gomez ,
+Juan Cast ,
